@@ -12,7 +12,7 @@ A RestAPI for sending emails.
 ## Installation
 1. clone the repo
 ```
-git clone github.com/TRudenko22/caster
+git clone https://github.com/TRudenko22/caster
 cd caster
 ```
 
