@@ -18,7 +18,7 @@ cd caster
 
 2. build the docker image
 ```
-docker built -t caster .
+docker build -t caster .
 ```
 
 3. run the docker image
